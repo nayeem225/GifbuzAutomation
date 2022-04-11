@@ -14,13 +14,16 @@ class TestOne(BaseClass):
 
     def test_e2e(self):
         self.driver.get("https://gifbuz.com/")
-        print("Gifbuz Login Test : Empty Mail and Empty Password")
-        time.sleep(3)
-        self.driver.find_element(by=By.XPATH,
-                            value="//body[1]/div[1]/div[1]/div[3]/div[2]/button[1]").click()
         time.sleep(2)
+        print("Gifbuz Login Test : Empty Mail and Empty Password")
+        time.sleep(2)
+        self.driver.find_element(by=By.CSS_SELECTOR,
+                                 value="#rcc-confirm-button").click()
+        time.sleep(5)
         self.driver.find_element(by=By.XPATH,
-                            value="//body[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]").click()
+                            value="//a[@class='btn btn-primary'][normalize-space()='Login']").click()
+        time.sleep(5)
+
 
         # login
         self.driver.find_element(by=By.XPATH,

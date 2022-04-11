@@ -1,0 +1,142 @@
+1649650979790	geckodriver	INFO	Listening on 127.0.0.1:62270
+1649650982890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62271" "-no-remote" "-profile" "C:\\Users\\BRAINC~1\\AppData\\Local\\Temp\\rust_mozprofileSvLABm"
+*** You are running in headless mode.
+1649650983443	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brain Craft\\AppData\\Local\\Temp\\rust_mozprofileSvLABm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62271/devtools/browser/d051def9-054b-48f7-a50b-4feb7f481c74
+1649650984892	Marionette	INFO	Listening on port 62276
+1649650984967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gifbuz.com/static/js/main.ea06222d.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://gifbuz.com/static/js/main.ea06222d.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1649650995828	Marionette	INFO	Stopped listening on port 62276
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649651046140	geckodriver	INFO	Listening on 127.0.0.1:62359
+1649651049232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62360" "-no-remote" "-profile" "C:\\Users\\BRAINC~1\\AppData\\Local\\Temp\\rust_mozprofileSAsNcC"
+*** You are running in headless mode.
+1649651049534	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brain Craft\\AppData\\Local\\Temp\\rust_mozprofileSAsNcC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62360/devtools/browser/a0ef2ec0-3309-4652-a2a9-97674b15da5c
+1649651050664	Marionette	INFO	Listening on port 62365
+1649651050815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gifbuz.com/static/js/main.ea06222d.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://gifbuz.com/static/js/main.ea06222d.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1649651061980	Marionette	INFO	Stopped listening on port 62365
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649653024197	geckodriver	INFO	Listening on 127.0.0.1:51168
+1649653027262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51169" "-no-remote" "-profile" "C:\\Users\\BRAINC~1\\AppData\\Local\\Temp\\rust_mozprofileAYgdz0"
+1649653027830	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brain Craft\\AppData\\Local\\Temp\\rust_mozprofileAYgdz0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51169/devtools/browser/9ec48b64-116f-4a6b-9e6a-8908fb570a56
+1649653030412	Marionette	INFO	Listening on port 51174
+1649653030467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1649653040263	Marionette	INFO	Stopped listening on port 51174
+1649653057628	geckodriver	INFO	Listening on 127.0.0.1:51245
+1649653060709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51246" "-no-remote" "-profile" "C:\\Users\\BRAINC~1\\AppData\\Local\\Temp\\rust_mozprofileMLM9qu"
+1649653061012	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brain Craft\\AppData\\Local\\Temp\\rust_mozprofileMLM9qu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51246/devtools/browser/4843cc6c-564b-48e8-b703-ffe967a45a71
+1649653063133	Marionette	INFO	Listening on port 51251
+1649653063372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1649653073816	Marionette	INFO	Stopped listening on port 51251
+1649653100328	geckodriver	INFO	Listening on 127.0.0.1:57028
+1649653103383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57029" "-no-remote" "-profile" "C:\\Users\\BRAINC~1\\AppData\\Local\\Temp\\rust_mozprofiley6HHgh"
+1649653103681	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brain Craft\\AppData\\Local\\Temp\\rust_mozprofiley6HHgh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57029/devtools/browser/fa26d369-32ed-4ae0-9f3d-d7806de0e2bd
+1649653105574	Marionette	INFO	Listening on port 57035
+1649653106064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1649653115858	Marionette	INFO	Stopped listening on port 57035
+1649653152266	geckodriver	INFO	Listening on 127.0.0.1:57112
+1649653155346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57113" "-no-remote" "-profile" "C:\\Users\\BRAINC~1\\AppData\\Local\\Temp\\rust_mozprofileXj7wj4"
+1649653155619	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brain Craft\\AppData\\Local\\Temp\\rust_mozprofileXj7wj4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57113/devtools/browser/354c6ac6-524a-4ffd-9294-56fc5ecfed13
+1649653157553	Marionette	INFO	Listening on port 57118
+1649653158005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1649653167258	Marionette	INFO	Stopped listening on port 57118
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649653193824	geckodriver	INFO	Listening on 127.0.0.1:64612
+1649653196875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64613" "-no-remote" "-profile" "C:\\Users\\BRAINC~1\\AppData\\Local\\Temp\\rust_mozprofile3q2GYM"
+1649653198470	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brain Craft\\AppData\\Local\\Temp\\rust_mozprofile3q2GYM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64613/devtools/browser/07973242-35aa-450c-8263-a77f39cc9e92
+1649653200364	Marionette	INFO	Listening on port 64619
+1649653200535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1649653210234	Marionette	INFO	Stopped listening on port 64619
+1649656686866	geckodriver	INFO	Listening on 127.0.0.1:56107
+1649656689942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56108" "-no-remote" "-profile" "C:\\Users\\BRAINC~1\\AppData\\Local\\Temp\\rust_mozprofileoOHkOq"
+1649656690404	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brain Craft\\AppData\\Local\\Temp\\rust_mozprofileoOHkOq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56108/devtools/browser/a6f3f6ec-254d-42f4-9c8e-4bd6e455ed3e
+1649656692564	Marionette	INFO	Listening on port 56113
+1649656692639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1649656705055	Marionette	INFO	Stopped listening on port 56113
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649656755738	geckodriver	INFO	Listening on 127.0.0.1:51013
+1649656758813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51014" "-no-remote" "-profile" "C:\\Users\\BRAINC~1\\AppData\\Local\\Temp\\rust_mozprofileriZb2W"
+1649656759096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brain Craft\\AppData\\Local\\Temp\\rust_mozprofileriZb2W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51014/devtools/browser/f9c8e587-d503-4096-93ae-e36c25dba24b
+1649656761185	Marionette	INFO	Listening on port 51019
+1649656761484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1649656773598	Marionette	INFO	Stopped listening on port 51019
+1649656792574	geckodriver	INFO	Listening on 127.0.0.1:51092
+1649656795662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51093" "-no-remote" "-profile" "C:\\Users\\BRAINC~1\\AppData\\Local\\Temp\\rust_mozprofileIqmCAr"
+1649656795926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brain Craft\\AppData\\Local\\Temp\\rust_mozprofileIqmCAr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51093/devtools/browser/a3349eb7-1518-4ae3-9df4-725c717db308
+1649656798074	Marionette	INFO	Listening on port 51098
+1649656798339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1649657050600	Marionette	INFO	Stopped listening on port 51098
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649657357316	geckodriver	INFO	Listening on 127.0.0.1:56814
+1649657360390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56815" "-no-remote" "-profile" "C:\\Users\\BRAINC~1\\AppData\\Local\\Temp\\rust_mozprofileG6OzmO"
+1649657360675	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brain Craft\\AppData\\Local\\Temp\\rust_mozprofileG6OzmO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56815/devtools/browser/48cd880d-1a0d-4163-8178-fe43cc9d3c82
+1649657362570	Marionette	INFO	Listening on port 56820
+1649657363066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1649657406625	Marionette	INFO	Stopped listening on port 56820
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649657590572	geckodriver	INFO	Listening on 127.0.0.1:61029
+1649657593658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61030" "-no-remote" "-profile" "C:\\Users\\BRAINC~1\\AppData\\Local\\Temp\\rust_mozprofileEI8Fdf"
+1649657593966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brain Craft\\AppData\\Local\\Temp\\rust_mozprofileEI8Fdf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61030/devtools/browser/9982e8fd-9013-464b-864b-3dfdc8e1c01f
+1649657596098	Marionette	INFO	Listening on port 61035
+1649657596363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://gifbuz.com/static/js/main.98b52234.chunk.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1649660123906	Marionette	INFO	Stopped listening on port 61035
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
