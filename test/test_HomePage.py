@@ -45,3 +45,4 @@ class TestOne(BaseClass):
 
         assert "Password should no be empty!" == blankPasswordMessage, "Password Dite bolce ke ?"
         print("Thanks for not giving any password")
+
